@@ -1,0 +1,26 @@
+﻿header {
+background-color: #CDA2D9;
+text-align: center;
+font-size: 30px;
+font-family: monospace;
+color: white;
+}
+article{
+background-color: #b2b2b2;
+font-family: helvetica;
+font-size: 18px;
+
+
+
+}
+section {
+	background-color: #dadada;
+	font-size: 14px;
+	color: orange;
+}
+ footer {
+
+ 	background-color: #91CBF3;
+ 	font-family: arial;
+ 	text-transform: uppercase;
+ }
